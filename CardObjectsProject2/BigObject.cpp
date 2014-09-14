@@ -15,7 +15,7 @@
 cg::BigObject::BigObject()
 {
     
-    std::string dirName = "/Users/Skabrams/Documents/Programming/Apps/MADREALSweetCardGame/CardObjectsProject2";
+    std::string dirName = "/Users/mac/Documents/ProgrammingProjects/AppleDeveloper/CardObjectsTester/CardObjectsTester";
     
     std::shared_ptr<cg::QuestionFinder> qf(new cg::QuestionFinder());
     
