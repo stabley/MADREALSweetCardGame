@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>787EF68F-FEB0-4938-B2EC-3372B95208E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CardObjectsProject2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D6B506E081AE383E35FC50E347E11F4B2D6AA659</key>
+		<string>https://github.com/stabley/MADREALSweetCardGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CardObjectsProject2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D6B506E081AE383E35FC50E347E11F4B2D6AA659</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stabley/MADREALSweetCardGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D6B506E081AE383E35FC50E347E11F4B2D6AA659</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6B506E081AE383E35FC50E347E11F4B2D6AA659</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MADREALSweetCardGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
